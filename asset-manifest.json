@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/editable-table-example/static/css/main.88615d36.css",
+    "main.js": "/editable-table-example/static/js/main.ab1dd3f9.js",
+    "index.html": "/editable-table-example/index.html",
+    "main.88615d36.css.map": "/editable-table-example/static/css/main.88615d36.css.map",
+    "main.ab1dd3f9.js.map": "/editable-table-example/static/js/main.ab1dd3f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88615d36.css",
+    "static/js/main.ab1dd3f9.js"
+  ]
+}
